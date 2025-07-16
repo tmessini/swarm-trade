@@ -1,6 +1,6 @@
-# Swarm Trade - Forex Trading Signals
+# Swarm Trade - Trading Signals
 
-A comprehensive forex trading signals application that combines screenshot analysis of trading charts with news sentiment analysis to generate intelligent trading signals.
+A comprehensive trading signals application that combines screenshot analysis of trading charts with news sentiment analysis to generate intelligent trading signals.
 
 ## Features
 
